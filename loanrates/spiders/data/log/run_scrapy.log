@@ -406,3 +406,9 @@
 2025-10-13 05:39:39,092 [INFO] :white_check_mark: Append complete.
 2025-10-13 05:39:39,092 [INFO] 
 
+2025-10-14 05:37:49,953 [INFO] :rocket: Running Scrapy spider...
+2025-10-14 05:37:52,990 [INFO] :white_check_mark: Scraping complete.
+2025-10-14 05:37:52,990 [INFO] :inbox_tray: Appending JSON to CSV...
+2025-10-14 05:37:53,020 [INFO] :white_check_mark: Append complete.
+2025-10-14 05:37:53,020 [INFO] 
+
